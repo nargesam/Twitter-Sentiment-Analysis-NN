@@ -1,0 +1,1766 @@
+yellen		-->		yelled
+sheryl		-->		cheryl
+seinfeld		-->		sein feld
+oil-equivalent		-->		oil equivalent
+judgement		-->		judgment
+gorman		-->		german
+goldmansachs		-->		goldman sachs
+factset		-->		fact set
+deltaoutage		-->		delta outage
+corp.		-->		corp
+at-the-money		-->		at the money
+arcuri		-->		arc uri
+ahahahaha		-->		aha hahaha
+@snapchat		-->		snapchat
+@recode		-->		recode
+@nytimes		-->		nytimes
+@nike		-->		nike
+@business		-->		business
+<num>-yr		-->		<num> yr
+year-over-year		-->		year over year
+venmo		-->		venom
+unionizer		-->		unionized
+softbank		-->		soft bank
+price-target		-->		price target
+nadella		-->		nad ella
+i.e		-->		i e
+dodd-frank		-->		dodd frank
+blow-off		-->		blow off
+bezos		-->		bozos
+@marketplace		-->		marketplace
+@marcus		-->		marcus
+<num>rd		-->		<num>nd
+<num>/		-->		<num>
+'this		-->		this
+secstate		-->		sec state
+nikkei-<num>.<num>		-->		nikkei <num> <num>
+netease		-->		net ease
+mis-pricing		-->		mis pricing
+kiplinger		-->		kip linger
+co.		-->		co
+back-tests		-->		back tests
+ausbiz		-->		aus biz
+askwarren		-->		ask warren
+@options		-->		options
+@fedex		-->		fedex
+@cnet		-->		cnet
+<num>-<num>.		-->		<num> <num>
+.<num>		-->		<num>
+u.s.-china		-->		u s china
+three-years		-->		three years
+tarullo		-->		trullo
+stupidstock		-->		stupid stock
+streetaccount		-->		street account
+stock-based		-->		stock based
+smartwatches		-->		smart watches
+salix		-->		salir
+recently-released		-->		recently released
+post-election		-->		post election
+mid-roll		-->		mid roll
+mid-<num>		-->		mid <num>
+marissa		-->		harissa
+large-cap		-->		large cap
+inaugurationday		-->		inauguration day
+georgiadis		-->		georgia dis
+fri.		-->		fri
+first-quarter		-->		first quarter
+faraday		-->		faraway
+ceraweek		-->		cer aweek
+cancelled		-->		canceled
+back-tester		-->		back tester
+@yahoo		-->		yahoo
+@nasdaq		-->		nasdaq
+@chevron		-->		chevron
+@barclays		-->		barclays
+<num>t		-->		<num>
+<num>mm		-->		<num>m
+<num>..		-->		<num>
+<num>-years		-->		<num> years
+<num>-k		-->		<num> k
+'tesla		-->		tesla
+'good		-->		good
+wed.		-->		wed
+u.s		-->		u s
+u-s		-->		u s
+trumps-		-->		trumps
+titanfall		-->		titan fall
+tcehy		-->		techy
+tar-jay		-->		tar jay
+stubhub		-->		stub hub
+spotify		-->		spot ify
+smartwatch		-->		smart watch
+shopify		-->		shop ify
+sherling		-->		sterling
+porat		-->		port
+notablecalls		-->		notable calls
+naaim		-->		nazim
+mid-february		-->		mid february
+low-volume		-->		low volume
+live-streaming		-->		live streaming
+law-enforcement		-->		law enforcement
+intra-day		-->		intra day
+in-seat		-->		in seat
+high-profile		-->		high profile
+feb.		-->		feb
+fassler		-->		rassler
+einhorn		-->		ein horn
+dissuader		-->		dissuade
+csarl		-->		carl
+congress-		-->		congress
+but..		-->		but
+blockchain		-->		block chain
+autonomousvehicles		-->		autonomous vehicles
+aramco		-->		armco
+@quagmires		-->		quagmires
+@oculus		-->		oculus
+@cisco		-->		cisco
+<num>y		-->		<num>
+<num>m+		-->		<num>m
+<num>f		-->		<num>
+<num>.<num>/share		-->		<num> <num>/share
+-<num>.<num>m		-->		<num> <num>
+'messy		-->		messy
+'fake		-->		fake
+'disgusting		-->		disgusting
+yet..just		-->		yet just
+year-to-date		-->		year todate
+worrie		-->		worried
+walgreens-rite		-->		walgreens rite
+underarmour		-->		underarm our
+tues.		-->		tues
+trumpville		-->		trump ville
+trumpprotest		-->		trump protest
+trump-tech		-->		trump tech
+tremain		-->		remain
+travel-ban		-->		travel ban
+tmall		-->		small
+third-largest		-->		third largest
+teslas		-->		tes las
+t-mobile		-->		t mobile
+sweeperbrief		-->		sweeper brief
+stocktwits		-->		stock twits
+start-up		-->		start up
+starbux		-->		star bux
+soon-to-be		-->		soon tobe
+smaller-than-usual		-->		smaller than usual
+smaller-than-expected		-->		smaller than expected
+short-covering		-->		short covering
+shira		-->		shirt
+semi-bullish		-->		semi bullish
+sell-side		-->		sell side
+scopping		-->		shopping
+risk-on		-->		risk on
+rewards.but		-->		rewards but
+reverse-sp		-->		reverse sp
+renault-nissan		-->		renault nissan
+refade		-->		remade
+re-test		-->		re test
+rate-hike		-->		rate hike
+rasgon		-->		ras gon
+radioshack		-->		radio shack
+quiet-		-->		quiet
+qters		-->		ters
+pre-made		-->		pre made
+piror		-->		prior
+persist-		-->		persist
+peoria-based		-->		peoria based
+pearl-clutching		-->		pearl clutching
+paypaul		-->		pay paul
+parkervision		-->		parker vision
+pandl		-->		panel
+ovide		-->		oxide
+one-trick		-->		one trick
+omnichannel		-->		omni channel
+oilprice		-->		oil price
+off-the-rocker		-->		off the rocker
+off-the-record		-->		off the record
+oct.		-->		oct
+obama-era		-->		obama era
+oakley		-->		oak ley
+nzdusd		-->		nzd usd
+notablecall		-->		notable call
+non-farm		-->		non farm
+nikkei-.<num>		-->		nikkei <num>
+net-net		-->		net net
+multi-day		-->		multi day
+most-hated		-->		most hated
+morningmovers		-->		morning movers
+morganlander		-->		morgan lander
+moonves		-->		moon ves
+monday/		-->		monday
+mid-jan.		-->		mid jan
+mid-day		-->		mid day
+mc-		-->		mc
+maryann		-->		mary ann
+marcato		-->		mar cato
+mahaney		-->		maha ney
+live-blog		-->		live blog
+lists..boom		-->		lists boom
+lethargic-		-->		lethargic
+leerink		-->		lee rink
+lapthorne		-->		lap thorne
+kinda-doctor		-->		kinda doctor
+justice..		-->		justice
+jobsreport		-->		jobs report
+jan.		-->		jan
+jaffray		-->		affray
+iocation		-->		location
+intaday		-->		intraday
+indystar		-->		indy star
+in-line		-->		in line
+in-between		-->		in between
+iamlong		-->		iam long
+ho-hum		-->		ho hum
+high-low		-->		high low
+hi-<num>		-->		hi <num>
+here..		-->		here
+heavily-weighted		-->		heavily weighted
+hearables		-->		wearables
+harit		-->		habit
+greenbonds		-->		green bonds
+golide		-->		glide
+ftse+.<num>		-->		ftse <num>
+fridayfun		-->		friday fun
+federalreserve		-->		federal reserve
+fb..		-->		fb
+ex-earnings		-->		ex earnings
+draghi		-->		dra ghi
+dimon		-->		demon
+decen		-->		decent
+cyberhacking		-->		cyber hacking
+crispr		-->		crisp
+corbat		-->		combat
+consumptio		-->		consumption
+concon		-->		con con
+cheeeeap		-->		cheap
+check-in		-->		check in
+caterpillar`s		-->		caterpillars
+cash-burn		-->		cash burn
+case-shiller		-->		case chiller
+bristol-myers		-->		bristol myers
+breakout..		-->		breakout
+break-up		-->		break up
+boot-on		-->		boot on
+blackledge		-->		black ledge
+big-box		-->		big box
+banyon		-->		canyon
+ballmer		-->		ball mer
+backtester		-->		back tester
+b-day		-->		b day
+@verge		-->		verge
+@twtr		-->		twtr
+@regeneron		-->		regeneron
+@intel		-->		intel
+@instagram		-->		instagram
+<num>yrs		-->		<num>yr
+<num>ish-		-->		<num>ish
+<num>.<num>/<num>.<num>/<num>.<num>/<num>.<num>		-->		<num> <num>/<num> <num>/<num> <num>/<num> <num>
+<num>-year-old		-->		<num> year old
+<num>-y		-->		<num> y
+<num>-letter		-->		<num> letter
+<num>-days		-->		<num> days
+<num>-d		-->		<num> d
+<num>,<num>.		-->		<num>,<num>
+<num>,<num>+		-->		<num>,<num>
+.run		-->		run
+-we		-->		we
+-time		-->		time
+-look		-->		look
+-<num>.		-->		<num>
+'weak		-->		weak
+'trashes		-->		trashes
+'threat		-->		threat
+'star		-->		star
+'some		-->		some
+'safe		-->		safe
+'rule		-->		rule
+'overvalued		-->		overvalued
+'less-bad		-->		less bad
+'highly		-->		highly
+'hard		-->		hard
+'fire		-->		fire
+'fatigued		-->		fatigued
+'facebook		-->		facebook
+'explosive		-->		explosive
+'easy		-->		easy
+'constitutional		-->		constitutional
+'clearly		-->		clearly
+'being		-->		being
+'beacon		-->		beacon
+~what		-->		what
+wunderlich		-->		wunder lich
+write-down		-->		write down
+well-positioned		-->		well positioned
+warrenbuffett		-->		warren buffett
+virtualreality		-->		virtual reality
+verizon-yahoo		-->		verizon yahoo
+under-performing		-->		under performing
+two-day		-->		two day
+twitterhack		-->		twitter hack
+trendingshares		-->		trending shares
+travelban		-->		travel ban
+tosyy		-->		tosay
+taobao		-->		tao bao
+takata		-->		tak ata
+sinclair		-->		sinc lair
+show-me		-->		show me
+saudis		-->		sau dis
+re-enter		-->		re enter
+re-election		-->		re election
+pre-storm		-->		pre storm
+post-market		-->		post market
+performance-based		-->		performance based
+ovious		-->		obvious
+overreac		-->		overreact
+oscarnoms		-->		oscar noms
+not-so-mighty		-->		not so mighty
+nordstrom		-->		nord strom
+noposition		-->		oposition
+nikkei+.<num>		-->		nikkei <num>
+must-see		-->		must see
+mr.		-->		mr
+morningstar		-->		morning star
+mind-blowing		-->		mind blowing
+milligan		-->		mulligan
+mexicowall		-->		mexico wall
+mccafe		-->		cafe
+kitchensink		-->		kitchen sink
+intel-mobileye		-->		intel mobil eye
+info-sharing		-->		info sharing
+hololens		-->		holo lens
+holiday-quarter		-->		holiday quarter
+hedgefunds		-->		hedge funds
+haskell		-->		hassel
+ginni		-->		inni
+gigafactories		-->		giga factories
+full-year		-->		full year
+follow-up		-->		follow up
+ex-twitter		-->		ex twitter
+ex-		-->		ex
+doshi		-->		dosh
+dislosure		-->		disclosure
+costolo		-->		cost olo
+citic		-->		civic
+channelnews		-->		channel news
+changce		-->		change
+cash-rich		-->		cash rich
+capital..		-->		capital
+bye-bye		-->		bye bye
+bottom-up		-->		bottom up
+blow-out		-->		blow out
+billackman		-->		blackman
+bettercup		-->		better cup
+best-performing		-->		best performing
+baristaproblems		-->		barista problems
+auto-blocking		-->		auto blocking
+applewatch		-->		apple watch
+app-related		-->		app related
+anti-japanese		-->		anti japanese
+after-market		-->		after market
+@globeandmail		-->		globeandmail
+@expedia		-->		expedia
+@costco		-->		costco
+@citi		-->		citi
+<num>g		-->		<num>
+<num>.<num>.		-->		<num> <num>
+<num>.<num>-		-->		<num> <num>
+<num>-mos		-->		<num> mos
+<num>,<num>-vehicle		-->		<num>,<num> vehicle
+'unlikely		-->		unlikely
+'trump		-->		trump
+'trash		-->		trash
+'toast		-->		toast
+'strangely		-->		strangely
+'spoofing		-->		spoofing
+'smart		-->		smart
+'news		-->		news
+'look		-->		look
+'fuck		-->		fuck
+'disruption		-->		disruption
+'congestion		-->		congestion
+'boring		-->		boring
+zenimax		-->		zen imax
+yan-tak		-->		yan tak
+world-class		-->		world class
+welcometrump		-->		welcome trump
+wechat		-->		webchat
+trumpian		-->		trump ian
+trumperror		-->		trump error
+trump-ma		-->		trump ma
+trim-down		-->		trim down
+trans-pacific		-->		trans pacific
+train-wreck		-->		train wreck
+traderwisdom		-->		trader wisdom
+tradertips		-->		trader tips
+trade-in-treadmill		-->		trade in treadmill
+top-line		-->		top line
+time-out		-->		time out
+tilton		-->		til ton
+third-biggest		-->		third biggest
+tesla-beating		-->		tesla beating
+st.		-->		st
+spanish-language		-->		spanish language
+single-digit		-->		single digit
+sing-song-y		-->		sing song y
+sharmin		-->		shar min
+servicenow		-->		service now
+self-driving-car		-->		self driving car
+sanpower		-->		manpower
+sacca		-->		sacco
+sabic		-->		sabi
+s-<num>		-->		s <num>
+ryancare		-->		ryan care
+round-trip		-->		round trip
+rometty		-->		rome tty
+record-high		-->		record high
+record-breaking		-->		record breaking
+range-bound		-->		range bound
+price-action		-->		price action
+powershares		-->		power shares
+post-		-->		post
+planahead		-->		plan ahead
+petrides		-->		pet rides
+panera		-->		pan era
+over-tenured		-->		over tenured
+out-perform		-->		out perform
+one..		-->		one
+off-sides		-->		off sides
+nose-diving		-->		nose diving
+nine-figure		-->		nine figure
+newban		-->		new ban
+netneutrality		-->		net neutrality
+nathanson		-->		nathan son
+narrative-but		-->		narrative but
+must-reads		-->		must reads
+multi-lot		-->		multi lot
+more..		-->		more
+mopub		-->		mopup
+monsanto		-->		mon santo
+moffett		-->		motet
+mis-priced		-->		mis priced
+may-<num>		-->		may <num>
+makarena		-->		mak arena
+macao		-->		macro
+love-in		-->		love in
+livedata		-->		live data
+kurnos		-->		kur nos
+july-august		-->		july august
+iphonex		-->		iphone
+investmentg		-->		investment
+insideetfs		-->		inside etfs
+huawei		-->		hua wei
+honeywell		-->		honey well
+himax		-->		wimax
+high-end		-->		high end
+hellolunch		-->		hello lunch
+hard-earned		-->		hard earned
+hallum		-->		hal lum
+glncy		-->		gency
+geoinvesting		-->		geo investing
+foxcon		-->		fox con
+fintwitter		-->		fin twitter
+fauda		-->		fauna
+fast-food		-->		fast food
+facebook-oculus		-->		facebook oculus
+f-ing		-->		f ing
+f*cking		-->		fucking
+ex-energy		-->		ex energy
+edith		-->		edit
+easterbrook		-->		easter brook
+e-tailer		-->		e tailer
+dr.		-->		dr
+doddfrank		-->		dodd frank
+division..		-->		division
+disca		-->		disc
+devos		-->		demos
+dead-on-departure		-->		dead on departure
+cybersecur		-->		cyber secur
+cross-border		-->		cross border
+coolsculpting		-->		cool sculpting
+china-trump		-->		china trump
+cancelling		-->		canceling
+bubblecovery		-->		bubble covery
+bubble-driven		-->		bubble driven
+blackmon		-->		black mon
+big-time		-->		big time
+better-than-expected		-->		better than expected
+best-selling		-->		best selling
+alligatorjaws		-->		alligator jaws
+@tesla		-->		tesla
+@pogue		-->		pogue
+@allergan		-->		allergan
+@<num>x		-->		<num>x
+<num>p		-->		<num>
+<num>h		-->		<num>
+<num>bn+		-->		<num>bn
+<num>/<num>.<num>/<num>/<num>		-->		<num>/<num> <num>/<num>/<num>
+<num>.<num>eps		-->		<num> <num>bps
+<num>.<num>-<num>.<num>		-->		<num> <num> <num> <num>
+<num>-wk		-->		<num> wk
+<num>-w		-->		<num> w
+<num>-style		-->		<num> style
+<num>-straight		-->		<num> straight
+<num>-months		-->		<num> months
+<num>-hour		-->		<num> hour
+<num>-for-<num>		-->		<num> for <num>
+<num>-billion		-->		<num> billion
+<num>-<num>.<num>		-->		<num> <num> <num>
+<num>,<num>-<num>,<num>		-->		<num>,<num> <num>,<num>
+/share		-->		share
+-dragonfly		-->		dragonfly
+'whole		-->		whole
+'significant		-->		significant
+'runaround		-->		runaround
+'quiet		-->		quiet
+'other		-->		other
+'future		-->		future
+'could		-->		could
+~<num>m		-->		<num>m
+zillow		-->		pillow
+zeltiq..		-->		zeltiq
+y-y		-->		y y
+wintel		-->		winter
+wi-fi		-->		wi fi
+wellsfargo		-->		wells fargo
+weeklys		-->		weekly
+weekend-		-->		weekend
+valueact		-->		value act
+two-years		-->		two years
+twilio		-->		twilit
+trumponomics		-->		trump onomics
+trumpelection		-->		trump election
+trumpban		-->		trump ban
+trump-related		-->		trump related
+trump-proof		-->		trump proof
+trademachine		-->		trade machine
+this-		-->		this
+third-party		-->		third party
+thiel		-->		thief
+thestreet		-->		the street
+telsa		-->		tesla
+techtuesday		-->		tech tuesday
+suntrust		-->		sun trust
+students-		-->		students
+stock-watching		-->		stock watching
+stock-market		-->		stock market
+step-by-step		-->		step by step
+spacex		-->		space
+socialcontract		-->		social contract
+shutterfly		-->		shutter fly
+shortyawards		-->		shorty awards
+shh..		-->		shh
+shenzhen		-->		shen zhen
+sheldon		-->		shel don
+setyan		-->		set yan
+set-top		-->		set top
+selfies		-->		self ies
+sectorrotation		-->		sector rotation
+secretaryofstate		-->		secretary ofstate
+seat-back		-->		seat back
+savita		-->		sav ita
+salim		-->		slim
+run-up		-->		run up
+rumours		-->		rumors
+riggio		-->		rig gio
+restructuring-related		-->		restructuring related
+redler		-->		redder
+re-elected		-->		re elected
+raytheon		-->		ray theon
+profit-taking		-->		profit taking
+priscilla		-->		pri scilla
+previously-planned		-->		previously planned
+president-elect		-->		president elect
+pre-split		-->		pre split
+pre-open		-->		pre open
+pre-election		-->		pre election
+pre-earnings		-->		pre earnings
+pre-		-->		pre
+powerwall		-->		power wall
+post-steve		-->		post steve
+post-ipo		-->		post ipo
+picture-in-picture		-->		picture in picture
+pichai		-->		pic hai
+phiii		-->		phi
+pennant-		-->		pennant
+out-		-->		out
+one-time		-->		one time
+one-day		-->		one day
+one-click		-->		one click
+oclaro		-->		claro
+nov.		-->		nov
+norbert		-->		nor bert
+non-stop		-->		non stop
+next-generation		-->		next generation
+nationalchampionship		-->		national championship
+must-watch		-->		must watch
+multi-millionaire		-->		multi millionaire
+money-losing		-->		money losing
+mondaymotivation		-->		monday motivation
+mobile-ordering		-->		mobile ordering
+mobile-advertising		-->		mobile advertising
+mercadolibre		-->		mercado libre
+mentorirl		-->		mentor irl
+markethumor		-->		market humor
+margo		-->		cargo
+mannkind		-->		mankind
+maestri		-->		maestro
+machine-learning		-->		machine learning
+longer-term		-->		longer term
+long-form		-->		long form
+lockheed		-->		lock heed
+lives.		-->		lives
+live-blogging		-->		live blogging
+lifecell		-->		life cell
+lgeaf		-->		leaf
+lewis-style		-->		lewis style
+lattner		-->		latter
+koffler		-->		koff ler
+kitchen-sinked		-->		kitchen sinked
+kinaxis		-->		kin axis
+kernan		-->		ker nan
+kauai		-->		kauri
+kakao		-->		kaka
+jpmorganchase		-->		jpmorgan chase
+jointaddress		-->		joint address
+jackma		-->		jackman
+j.p.		-->		j p
+ivanka		-->		iva nka
+ibmers		-->		ibm ers
+hongkong		-->		hong kong
+home-improvement		-->		home improvement
+hk-.<num>		-->		hk <num>
+high-tech		-->		high tech
+heinz		-->		hein
+health-care		-->		health care
+hasbro		-->		has bro
+handles-		-->		handles
+grubhub		-->		grub hub
+growthaccelerating		-->		growth accelerating
+greenberg		-->		green berg
+googlepixel		-->		google pixel
+goldprice		-->		gold price
+goldenglobes		-->		golden globes
+full-screen		-->		full screen
+full-benefit		-->		full benefit
+friendly-ish		-->		friendly ish
+francine		-->		franc ine
+fixed-income		-->		fixed income
+fenix		-->		feni
+fastest-growing		-->		fastest growing
+fan-favorite		-->		fan favorite
+experinece		-->		experience
+ex-items		-->		ex items
+ex-auto		-->		ex auto
+ever-so-slightly		-->		ever so slightly
+etsys		-->		etsy
+earnings..		-->		earnings
+drops..		-->		drops
+dowjones		-->		dow jones
+double-dose		-->		double dose
+dodson		-->		godson
+dixons		-->		dix ons
+december-quarter		-->		december quarter
+dc.		-->		dc
+currie		-->		curries
+cos.		-->		cos
+cord-cutting		-->		cord cutting
+closingbell		-->		closing bell
+chardan		-->		char dan
+celeb-filled		-->		celeb filled
+casebolt		-->		case bolt
+carplay		-->		car play
+carphone		-->		car phone
+cancer-screening		-->		cancer screening
+callaway		-->		call away
+brandz		-->		brand
+bottom-line		-->		bottom line
+bond-trading		-->		bond trading
+blackrock		-->		black rock
+billion-plus		-->		billion plus
+billion-dollar		-->		billion dollar
+bigmac		-->		big mac
+bigly		-->		billy
+best-in-class		-->		best in class
+basham		-->		bas ham
+augmentedreality		-->		augmented reality
+arconic		-->		arco nic
+appletalk		-->		apple talk
+amadumb		-->		ama dumb
+all-world		-->		all world
+all-star		-->		all star
+alessandro		-->		ales sandro
+akamai		-->		aka mai
+airpod		-->		air pod
+after-hrs		-->		after hrs
+ads.gr		-->		ads gr
+@valeant		-->		valeant
+@theinformation		-->		theinformation
+@souq		-->		souq
+@snap		-->		snap
+@sanofi		-->		sanofi
+@salesforce		-->		salesforce
+@merck		-->		merck
+@mattel		-->		mattel
+@linkedin		-->		linkedin
+@jason		-->		jason
+@ford		-->		ford
+@fitbit		-->		fitbit
+@cnbci		-->		@cnbc
+@circa		-->		circa
+@christiiineeee		-->		christine
+@breakingviews		-->		breakingviews
+@appdynamics		-->		appdynamics
+@<num>.<num>		-->		<num> <num>
+@.		-->		@
+<num>th-anniversary		-->		<num>th anniversary
+<num>am		-->		<num>m
+<num>a		-->		<num>
+<num>/sh		-->		<num>ish
+<num>/<num>/<num>.<num>/<num>.<num>		-->		<num>/<num>/<num> <num>/<num> <num>
+<num>/<num>-<num>		-->		<num>/<num> <num>
+<num>.hk		-->		<num> hk
+<num>.<num>x		-->		<num> <num>
+<num>.<num>t		-->		<num> <num>
+<num>.<num>/<num>		-->		<num> <num>/<num>
+<num>-fold		-->		<num> fold
+<num>-<num>-<num>		-->		<num> <num> <num>
+<num>++		-->		<num>+
+.upper		-->		upper
+.russell		-->		russell
+-i		-->		i
+-bank		-->		bank
+-another		-->		another
++<num>m		-->		+<num>
++<num>bps		-->		<num>bps
++.<num>		-->		+ <num>
+++action		-->		action
+'very		-->		very
+'strong		-->		strong
+'solid		-->		solid
+'services		-->		services
+'safety		-->		safety
+'retail		-->		retail
+'record-laden		-->		record laden
+'really		-->		really
+'gets		-->		gets
+'everybody		-->		everybody
+~<num>.<num>		-->		<num> <num>
+~<num>-<num>		-->		<num> <num>
+zynga		-->		znga
+zelnick		-->		zel nick
+zelle		-->		belle
+yugely		-->		hugely
+yr-end		-->		yr end
+youtube-like		-->		youtube like
+youtub		-->		you tub
+youdoubted		-->		you doubted
+yhoo/		-->		yhoo
+yeswecan		-->		yes wecan
+yesterd		-->		yester
+year-on-year		-->		year on year
+year-ago		-->		year ago
+xiaomi		-->		xia omi
+x.		-->		x
+x-mkt		-->		x mkt
+wtching		-->		watching
+write-up		-->		write up
+worththeprice		-->		worth theprice
+wisconnson		-->		wisconsin
+winningstrategies		-->		winning strategies
+winners..		-->		winners
+whiskey-barrel-aged		-->		whiskey barrel aged
+whadya		-->		whaddya
+well-timed		-->		well timed
+well-behaved		-->		well behaved
+weekly-monthly		-->		weekly monthly
+week-		-->		week
+webex		-->		weber
+weatherford		-->		weather ford
+wcfdavos		-->		wcf davos
+wayfair		-->		way fair
+watson-powered		-->		watson powered
+wasnt		-->		want
+warrenbuffet		-->		warren buffet
+wakko		-->		wacko
+wagoneers		-->		wagon eers
+volcker		-->		vol cker
+vodaphone		-->		voda phone
+vividion		-->		vivid ion
+video-streaming		-->		video streaming
+video-sharing		-->		video sharing
+video-first		-->		video first
+via.b		-->		via b
+verif		-->		verify
+verastem		-->		vera stem
+venture-backed		-->		venture backed
+vazquez-ubarri		-->		vasquez bari
+valueinvesting		-->		value investing
+valentino		-->		valentine
+valdez		-->		val dez
+user-friendly		-->		user friendly
+user-faster		-->		user faster
+usdrub		-->		usd rub
+us-listed		-->		us listed
+ups..		-->		ups
+upgrade..		-->		upgrade
+update-		-->		update
+up-close		-->		up close
+unitedtech		-->		united tech
+unitedhealth		-->		united health
+unit-revenue		-->		unit revenue
+unilever		-->		uni lever
+under-the-radar		-->		under the radar
+unclesays		-->		uncle says
+ulta-mate		-->		ulta mate
+ubisoft		-->		ubi soft
+u.s./canada		-->		u s canada
+u.a.e		-->		uae
+two-sided		-->		two sided
+two-month		-->		two month
+tweetstorm		-->		tweet storm
+tuesdaymotivation		-->		tuesday motivation
+tryon		-->		tryin
+trust-		-->		trust
+trumpwall		-->		trump wall
+trumptrade		-->		trump trade
+trumppressconference		-->		trump pressconference
+trumpdumps		-->		trump dumps
+trump-rooster		-->		trump rooster
+trump-loving		-->		trump loving
+true-i		-->		true i
+triple-digit		-->		triple digit
+tripadvisor		-->		trip advisor
+trillion-dollar		-->		trillion dollar
+trilli		-->		trills
+trickl		-->		trick
+trello		-->		trullo
+transferwise		-->		transfer wise
+tradingview		-->		trading view
+tradertoolbox		-->		trader toolbox
+traderexpo		-->		trader expo
+traderchecklist		-->		trader checklist
+tradebird		-->		trade bird
+trackr		-->		track
+tplex		-->		plex
+totalling		-->		totaling
+topsy-turvy		-->		topsy turvy
+topdownthermometer		-->		topdown thermometer
+top-yielding		-->		top yielding
+top-end		-->		top end
+top-		-->		top
+toodle-oo		-->		toodle oo
+tomah-to		-->		tomahto
+to-buy		-->		tobuy
+time-highs		-->		time highs
+thursdaythoughts		-->		thursday thoughts
+three-year		-->		three year
+three-quarter		-->		three quarter
+thousand-point		-->		thousand point
+tho..		-->		tho
+theunwinding		-->		the unwinding
+themoreyouknow		-->		themore youknow
+theeeere		-->		there
+teslamotors		-->		tesla motors
+ten-pound		-->		ten pound
+techstocks		-->		tech stocks
+teavana		-->		tea vana
+tcoil		-->		toil
+taxreform		-->		tax reform
+tax-free		-->		tax free
+tax-cut		-->		tax cut
+tasha		-->		pasha
+targets-		-->		targets
+tanger		-->		danger
+talluri		-->		tall uri
+tall-sized		-->		tall sized
+takefive		-->		take five
+takeda		-->		tak eda
+t.		-->		t
+systrom		-->		syst rom
+switchhype		-->		switch hype
+supercar-loving		-->		supercar loving
+superbowlhalftime		-->		superbowl halftime
+super-human		-->		super human
+super-high		-->		super high
+super-cycle		-->		super cycle
+successfultraders		-->		successful traders
+streaming-content		-->		streaming content
+strea		-->		streak
+strategy.		-->		strategy
+strategies-		-->		strategies
+straig		-->		strain
+stoxx		-->		stox
+stockma		-->		stockman
+stockland		-->		stock land
+stockalert-		-->		stock alert
+stock-all		-->		stock all
+still-to-close		-->		still toclose
+stifel		-->		stifle
+starwood		-->		star wood
+starmine		-->		star mine
+stansberry		-->		stans berry
+stanchart		-->		stanch art
+squidly		-->		squidgy
+spy..		-->		spy
+spx-<num>		-->		spx <num>
+spin-offs		-->		spin offs
+spiffypops		-->		spiffy pops
+spicer		-->		spice
+sp-<num>		-->		sp <num>
+southsudan		-->		south sudan
+soundcloud		-->		sound cloud
+sorrell		-->		sorrel
+someonehelp		-->		someone help
+software-centric		-->		software centric
+softee		-->		softer
+socgen		-->		soc gen
+snaproute		-->		snap route
+snapon		-->		sna pon
+snaphcat		-->		snapchat
+snapchat-twitter		-->		snap chat twitter
+snapchat-like		-->		snap chat like
+snapc		-->		snap
+snap-google		-->		snap google
+smartphonewars		-->		smartphone wars
+smartphone'		-->		smartphone
+smartestimates		-->		smart estimates
+small-cap		-->		small cap
+small-business		-->		small business
+slover		-->		slower
+sky-high		-->		sky high
+siri-ous		-->		siri ous
+single-stock		-->		single stock
+silverstein		-->		silver stein
+siliq		-->		sili
+siliconbeach		-->		silicon beach
+sign-on		-->		sign on
+shout-out		-->		shout out
+short-squeeze		-->		short squeeze
+shoe-in		-->		shoe in
+share-price		-->		share price
+share-count		-->		share count
+shanghainese		-->		shanghai nese
+shake-ups		-->		shake ups
+sergey		-->		serge
+sept.		-->		sept
+sentiment-		-->		sentiment
+sensing'		-->		sensing
+sell-through		-->		sell through
+sell-in		-->		sell in
+selfie		-->		sel fie
+self-produced		-->		self produced
+self-own		-->		self own
+self-made		-->		self made
+sector-level		-->		sector level
+second-quarter		-->		second quarter
+schwab		-->		schwag
+scherrer		-->		schemer
+scherr		-->		sch err
+saveme		-->		sav eme
+sarandos		-->		saran dos
+samueladam		-->		samuel adam
+samsun		-->		sam sun
+same-day		-->		same day
+rydex		-->		ryder
+rumoured		-->		rumored
+ruane		-->		rune
+round-up		-->		round up
+roosteryear		-->		rooster year
+risk-reward		-->		risk reward
+risk-adjusted		-->		risk adjusted
+risk-		-->		risk
+riminds		-->		reminds
+rhofade		-->		rho fade
+revlon		-->		rev lon
+reverses-		-->		reverses
+revenue-per-user		-->		revenue per user
+revenue-per		-->		revenue per
+restricte		-->		restricted
+republicanswag		-->		republican swag
+report.check		-->		report check
+remember-		-->		remember
+red-hot		-->		red hot
+rearden		-->		rear den
+real..		-->		real
+real-time		-->		real time
+real-interest		-->		real interest
+ready-to-drink		-->		readyto drink
+re-visit		-->		re visit
+re-read		-->		re read
+re-fresh		-->		re fresh
+re-evaluate		-->		re evaluate
+re-entry		-->		re entry
+rb.l		-->		rb l
+rayth		-->		rath
+rathered		-->		gathered
+randgold		-->		rand gold
+question..		-->		question
+quarter-over-quarter		-->		quarter over quarter
+quarter-en		-->		quarter en
+qualys		-->		qualms
+quadcopters		-->		quad copters
+purley		-->		purely
+protection-ey		-->		protection ey
+profitabletrading		-->		profitable trading
+profitabletraders		-->		profitable traders
+profit.ly		-->		profit ly
+procter		-->		proctor
+primerica		-->		prim erica
+president-elec		-->		president elec
+premkt		-->		pre mkt
+predction		-->		prediction
+preciousmetals		-->		precious metals
+pre-tax		-->		pre tax
+pre-spike		-->		pre spike
+pre-show		-->		pre show
+pre-roll		-->		pre roll
+pre-oscars		-->		pre oscars
+power-		-->		power
+potstocks		-->		pot stocks
+potstock		-->		pot stock
+post-trump		-->		post trump
+post-tillerson		-->		post tiller son
+post-earns		-->		post earns
+positive***		-->		positive ***
+pop-ups		-->		pop ups
+pop-culture		-->		pop culture
+politics..		-->		politics
+point*		-->		points
+plouffe		-->		pouffe
+pizzahut		-->		pizza hut
+pinterest		-->		interest
+picasso		-->		pic asso
+photo-tag		-->		photo tag
+pharmasset		-->		pharmas set
+pgatour		-->		pga tour
+perrigo		-->		perio
+pepsico		-->		peps ico
+pensando		-->		pen sando
+penny-garbage		-->		penny garbage
+pemian		-->		remian
+paytm		-->		payam
+paycom		-->		pay com
+pauley		-->		parley
+paidleave		-->		paid leave
+paccar		-->		pac car
+out-performing		-->		out performing
+out-investing		-->		out investing
+oreal		-->		real
+optuma		-->		opt uma
+ophir		-->		phir
+operatingleverage		-->		operating leverage
+opera.ol		-->		opera ol
+open-source		-->		open source
+op-eds		-->		op eds
+oneok		-->		oneof
+one-year		-->		one year
+one-fourth		-->		one fourth
+on-call		-->		on call
+oleds		-->		olds
+old-school		-->		old school
+ok.		-->		ok
+oil-rich		-->		oil rich
+obsene		-->		obscene
+nvida		-->		nvidia
+nowak		-->		noway
+now-		-->		now
+notsoyummy		-->		notso yummy
+nothingsville		-->		nothings ville
+not-exactly-soon		-->		not exactly soon
+northkorea		-->		north korea
+non-surgical		-->		non surgical
+non-profitable		-->		non profitable
+non-profit		-->		non profit
+non-prime		-->		non prime
+non-linear		-->		non linear
+non-investors		-->		non investors
+nodapl		-->		nodal
+nocella		-->		novella
+no-nonsense		-->		no nonsense
+no-brainer		-->		no brainer
+nlods		-->		nods
+nividia		-->		nvidia
+nicolas		-->		nico las
+nfpguesses		-->		nfp guesses
+nfpguess		-->		nfp guess
+nflx/		-->		nflx
+nflplayoffs		-->		nfl playoffs
+next-gen		-->		next gen
+newsverizon		-->		news verizon
+newsmax		-->		news max
+newmont		-->		new mont
+netflix-like		-->		netflix like
+near-universal		-->		near universal
+near-record		-->		near record
+ncomp		-->		comp
+nasadq		-->		nasdaq
+nakul		-->		naku
+must-know		-->		must know
+must-have		-->		must have
+muslimban		-->		muslim ban
+musk-led		-->		musk led
+musicia		-->		musician
+munger		-->		hunger
+multi-year		-->		multi year
+multi-decade		-->		multi decade
+multi-billion		-->		multi billion
+mult-day		-->		mult day
+muliti		-->		multi
+mulesoft		-->		mule soft
+move..		-->		move
+move-		-->		move
+mother-daughter		-->		mother daughter
+most-recent		-->		most recent
+moshe		-->		mosh
+morning..		-->		morning
+moriarty		-->		mori arty
+mooresville		-->		moore sville
+monness		-->		mon ness
+monetizin		-->		monetizing
+moneti		-->		monet
+momo-call		-->		momo call
+momentum-		-->		momentum
+mobile-related		-->		mobile related
+mixed/		-->		mixed
+mistry		-->		misery
+minutes..		-->		minutes
+mind-boggling		-->		mind boggling
+mind-bending		-->		mind bending
+milsy		-->		milky
+milly		-->		mill
+million-strong		-->		million strong
+mileston		-->		miles ton
+miles+		-->		miles
+middleeast		-->		middle east
+mid-week		-->		mid week
+mid-teens		-->		mid teens
+mid-range		-->		mid range
+mid-november		-->		mid november
+mid-dec		-->		mid dec
+mid-cycle		-->		mid cycle
+mickyd		-->		micky
+mich.		-->		mich
+mhatre		-->		mha tre
+memory-chip		-->		memory chip
+members-only		-->		members only
+megablockbuster		-->		mega blockbuster
+mega-hit		-->		mega hit
+measure-adjust		-->		measure adjust
+meacham		-->		mea cham
+mchalt		-->		mch alt
+mcewen		-->		mce wen
+mcadam		-->		madam
+matsui		-->		mat sui
+match-ups		-->		match ups
+marriageequality		-->		marriage equality
+marketstoday		-->		markets today
+marketforecast		-->		market forecast
+market-perform		-->		market perform
+market-crushing		-->		market crushing
+marinac		-->		marina
+marietta		-->		mari etta
+margisn		-->		margin
+marchela		-->		march ela
+manulife		-->		manu life
+mantr		-->		mantra
+madmath		-->		mad math
+macys		-->		macs
+machinelearning		-->		machine learning
+maccafe		-->		mac cafe
+macbookpro		-->		macbook pro
+m-commerce		-->		m commerce
+luck..maybe		-->		luck maybe
+low-end		-->		low end
+louney		-->		looney
+longs-		-->		longs
+long-run		-->		long run
+long-acting		-->		long acting
+localisation		-->		localization
+lobby-heavy		-->		lobby heavy
+living-wills		-->		living wills
+live-tweeting		-->		live tweeting
+live-tweet		-->		live tweet
+live-stream		-->		live stream
+littttt		-->		lit
+littlefriend		-->		little friend
+levels-		-->		levels
+less-		-->		less
+lenexa		-->		len exa
+lendingtree		-->		lending tree
+lemkau		-->		lem kau
+lauder		-->		ladder
+late-late		-->		late late
+late-breaking		-->		late breaking
+lasry		-->		larry
+largest-ever		-->		largest ever
+larger-than-expected		-->		larger than expected
+languagelearning		-->		language learning
+langley		-->		lang ley
+landry		-->		laundry
+lamba		-->		lamb
+l.a.		-->		la
+l-rd		-->		l rd
+kostin		-->		kos tin
+koenig		-->		koe nig
+kirkland		-->		kirk land
+kinger		-->		singer
+kingdollar		-->		king dollar
+kimmy		-->		jimmy
+kilburg		-->		kil burg
+kick-off		-->		kick off
+keeney		-->		keenly
+kayvon		-->		kay von
+katri		-->		kauri
+kaleo		-->		kale
+k.		-->		k
+justhuman		-->		just human
+jointsession		-->		joint session
+jessieguo		-->		jessie guo
+jeffries		-->		jeff ries
+jefferies		-->		jeff eries
+jeesh		-->		yeesh
+jam-packed		-->		jam packed
+jabil		-->		jail
+ivaporizer		-->		vaporizer
+it..		-->		it
+it-infrastructure		-->		it infrastructure
+is..		-->		is
+ironfist		-->		iron fist
+iris-scanner		-->		iris scanner
+ipo-shy		-->		ipo shy
+iphone-era		-->		iphone era
+investingtrader		-->		investing trader
+invesco		-->		inve sco
+intvw		-->		intv
+interest-based		-->		interest based
+inovio		-->		ino vio
+inormous		-->		enormous
+india.concessions		-->		india concessions
+indexes-		-->		indexes
+index-based		-->		index based
+incyte		-->		incite
+inauguration-		-->		inauguration
+in..		-->		in
+in-store		-->		in store
+in-restaurant		-->		in restaurant
+in-house		-->		in house
+in-app		-->		in app
+imessage		-->		message
+illumina		-->		illumine
+idime		-->		dime
+i.e.		-->		i e
+huffington		-->		huffing ton
+hubspot		-->		hub spot
+huberty		-->		puberty
+howardschultz		-->		howard schultz
+houghts		-->		thoughts
+hotstocks		-->		hot stocks
+hortons		-->		hort ons
+horrible-		-->		horrible
+honours		-->		honors
+homekit		-->		home kit
+hologic		-->		holo gic
+holiday-shopping		-->		holiday shopping
+highest-conviction		-->		highest conviction
+high-quality		-->		high quality
+hi-def		-->		hi def
+herbalife		-->		herbal ife
+headpho		-->		head pho
+hate-crime		-->		hate crime
+hasskarl		-->		hass karl
+harvest.ai		-->		harvest ai
+happening..		-->		happening
+half-hour		-->		half hour
+half-full		-->		half full
+half-baked		-->		half baked
+hahne		-->		hahn
+hadoop		-->		had oop
+guide-		-->		guide
+gs-		-->		gs
+growthier		-->		grow thier
+grinddddd		-->		grind
+greenhill		-->		green hill
+grandeed		-->		gran deed
+gowanus		-->		gow anus
+gotomeeting		-->		goto meeting
+googl-		-->		google
+goog/l		-->		googol
+goodenough		-->		good enough
+goode		-->		good
+gluten-free		-->		gluten free
+gilmore		-->		gil more
+georgesoros		-->		george soros
+gene-editing		-->		gene editing
+gbpusd		-->		gbp usd
+garycohn		-->		gary cohn
+gaming'		-->		gaming
+g.		-->		g
+full-disc		-->		full disc
+friendsday		-->		friends day
+friendlyish		-->		friendly ish
+fridayfade		-->		friday fade
+freshdirect		-->		fresh direct
+freelancelife		-->		freelance life
+free-money		-->		free money
+francesco		-->		france sco
+fouse		-->		house
+fourth-best		-->		fourth best
+fourpeat		-->		four peat
+fortson		-->		fort son
+fortive		-->		forgive
+forcerank		-->		force rank
+flynn		-->		flyin
+fly-by-night		-->		fly by night
+fistbumps		-->		fist bumps
+fisher-price		-->		fisher price
+first-hand		-->		first hand
+first-half		-->		first half
+first-ever		-->		first ever
+fintec		-->		fin tec
+finanicals		-->		financials
+financialplanning		-->		financial planning
+fiasco-		-->		fiasco
+ferts		-->		feats
+feature-		-->		feature
+favorites..		-->		favorites
+fast-turn		-->		fast turn
+fast-		-->		fast
+faricy		-->		far icy
+farah		-->		sarah
+fang+		-->		fangs
+faircy		-->		fairly
+fade-		-->		fade
+fact-checking		-->		fact checking
+facebook_		-->		facebook
+fabulousl		-->		fabulous
+f.maranz		-->		f maran
+eyedisease		-->		eye disease
+eye-popping		-->		eye popping
+exxon-saudi		-->		exxon saudi
+exp'd-		-->		exp'd
+ex-tac		-->		ex tac
+ex-morgan		-->		ex morgan
+ex-mayer		-->		ex mayer
+ex-goldman		-->		ex goldman
+ex-fx		-->		ex fx
+euro-dollar		-->		euro dollar
+euphoriameter		-->		euphoria meter
+etc..		-->		etc
+estee		-->		esteem
+esperanto		-->		espera nto
+equalitycampaign		-->		equality campaign
+enginee		-->		engine
+energous		-->		energos
+end-to-end		-->		end toend
+emmmbf		-->		emm mbf
+electrek		-->		elec trek
+elainechao		-->		elaine chao
+el-khoury		-->		el kho ury
+eikon		-->		nikon
+editas		-->		edits
+edit-o		-->		edit o
+ecomm		-->		comm
+earningsseason		-->		earnings season
+earningsreport		-->		earnings report
+earnings-palooza		-->		earnings palooza
+earni		-->		earn
+e.g		-->		e g
+e-powered		-->		e powered
+e-comm		-->		e comm
+duiring		-->		during
+duggal		-->		dug gal
+due-diligence		-->		due diligence
+dude..		-->		dude
+drive-thrus		-->		drive thrus
+drive-thru		-->		drive thru
+drive-through		-->		drive through
+driftin		-->		drifting
+drexel		-->		dremel
+dow-tracking		-->		dow tracking
+doughnuts		-->		dough nuts
+double-digit		-->		double digit
+dot-com		-->		dot com
+dollar-impact		-->		dollar impact
+do-		-->		do
+discussion..thanks		-->		discussion thanks
+directioon		-->		direction
+dillon		-->		billon
+digitalpayments		-->		digital payments
+didnt		-->		didn
+dickinson		-->		dick inson
+devenish		-->		deve nish
+deleteuber		-->		delete uber
+deepmind		-->		deep mind
+deeplearning		-->		deep learning
+deep-learning		-->		deep learning
+december-ending		-->		december ending
+decade+		-->		decades
+data-center		-->		data center
+daliresp		-->		dali resp
+dailydownload		-->		daily download
+dailybriefing		-->		daily briefing
+daily-		-->		daily
+cybercurrency		-->		cyber currency
+cyber-shot		-->		cyber shot
+custs		-->		costs
+cuniff		-->		cun iff
+ctrip		-->		trip
+crm..		-->		crm
+crisis-era		-->		crisis era
+crespi		-->		cre spi
+cotai		-->		coati
+cost-per-user		-->		cost per user
+cost-cutting		-->		cost cutting
+cortana		-->		cor tana
+corpgov		-->		corp gov
+cordcutters		-->		cord cutters
+corbet		-->		corset
+coolin		-->		cooling
+continues..wrote		-->		continues wrote
+consumption..		-->		consumption
+consolidaton		-->		consolidation
+considering..		-->		considering
+consdisc		-->		cons disc
+conscyc		-->		cons cyc
+compq		-->		comp
+company-owned		-->		company owned
+commeth		-->		com meth
+commercializa		-->		commercialize
+columbian		-->		colum bian
+colorware		-->		color ware
+cognex		-->		cog nex
+codemedia		-->		code media
+coca-cola		-->		coca cola
+co-op		-->		co op
+co-located		-->		co located
+co-head		-->		co head
+co-coo		-->		co coo
+cnnmoney		-->		cnn money
+cls.to		-->		custo
+cloudcomputing		-->		cloud computing
+cloud-computing		-->		cloud computing
+close..		-->		close
+clock-work		-->		clock work
+click-thru		-->		click thru
+cir.l		-->		cir l
+ciena		-->		cena
+chip-gear		-->		chip gear
+china-		-->		china
+chicago-area		-->		chicago area
+cheslock		-->		ches lock
+chekc		-->		check
+chatteron		-->		chaperon
+chatfuel		-->		chat fuel
+chat..chanos		-->		chat chaos
+chartsummit		-->		chart summit
+chargerstola		-->		chargers tola
+cgoof		-->		goof
+celldex		-->		cell dex
+ccloud		-->		cloud
+caysh		-->		cash
+cavium		-->		cav ium
+catch-up		-->		catch up
+cashtag		-->		cash tag
+cashmoney		-->		cash money
+carsaver		-->		car saver
+carlyle		-->		carl yle
+carlotti		-->		carlo tti
+carekit		-->		care kit
+car-tech		-->		car tech
+capis		-->		caps
+candice		-->		can dice
+canaccord		-->		can accord
+call-side		-->		call side
+cakin		-->		akin
+cac.+<num>		-->		cac <num>
+buzzfeed		-->		buzz feed
+butt-cised		-->		butt cited
+burlington		-->		burl ington
+bullmarket		-->		bull market
+breakinghistory		-->		breaking history
+breakign		-->		breaking
+break-down		-->		break down
+braintree		-->		brain tree
+bopco		-->		opco
+boom.trailer		-->		boom trailer
+body-sculptor		-->		body sculptor
+blow-up		-->		blow up
+bisaro		-->		bistro
+bio-twitter		-->		bio twitter
+billiton		-->		billion
+biggest-ever		-->		biggest ever
+bigcall		-->		big call
+big-bank		-->		big bank
+bid-ask		-->		bid ask
+better..		-->		better
+better-than-average		-->		better than average
+beststates		-->		best states
+bestguess		-->		best guess
+best-quarter		-->		best quarter
+bessant		-->		bes sant
+bertha		-->		berth
+benioff		-->		beni off
+bengaluru		-->		bengal uru
+belivers		-->		delivers
+becton		-->		beckon
+beatsx		-->		beats
+beaten-down		-->		beaten down
+beast-mode		-->		beast mode
+batseurope		-->		bats europe
+bartz		-->		bart
+barris		-->		barrio
+banker/		-->		bankers
+band-aid		-->		band aid
+bakken		-->		bak ken
+back-to-back		-->		backto back
+back-testing		-->		back testing
+back-test		-->		back test
+back-month		-->		back month
+back-half		-->		back half
+baba-		-->		baba
+b-dubs		-->		b dubs
+awsoutage		-->		aws outage
+away..		-->		away
+autozone		-->		auto zone
+autonomous-driving		-->		autonomous driving
+autonomous-drive		-->		autonomous drive
+autonomous-cars		-->		autonomous cars
+autonation		-->		auto nation
+atlassian		-->		atlas sian
+at-home		-->		at home
+arm-based		-->		arm based
+aristotle		-->		aristo tle
+ariad		-->		arid
+aren'tdoing		-->		aren't doing
+area-levels		-->		area levels
+ar-capable		-->		ar capable
+applemusic		-->		apple music
+apple-samsung		-->		apple samsung
+apigee		-->		apogee
+anti-fragile		-->		anti fragile
+anti-bigotry		-->		anti bigotry
+anti-ban		-->		anti ban
+anti-		-->		anti
+anncts		-->		ann cts
+anilu		-->		anil
+anice		-->		nice
+anglogold		-->		anglo gold
+andreessen		-->		andre essen
+and/or		-->		andor
+amoled		-->		ambled
+americanexpress		-->		american express
+amazonprime		-->		amazon prime
+amazon.let		-->		amazon let
+amazing..		-->		amazing
+am-er-i-can		-->		am er i can
+altria		-->		atria
+alternativefacts		-->		alternative facts
+all-time-highs		-->		all time highs
+all-time-high		-->		all time high
+all-tim		-->		all tim
+all-ti		-->		all ti
+all-or-nothing		-->		all or nothing
+all-in		-->		all in
+all-consuming		-->		all consuming
+aliyun		-->		ali yun
+alibaba-backed		-->		alibaba backed
+alexa-		-->		alexa
+aleppo		-->		aleo
+albertsons		-->		albert sons
+airyy		-->		airy
+airhub		-->		air hub
+air-warehouse		-->		air warehouse
+air-travel		-->		air travel
+ai-fueled		-->		ai fueled
+agreement-anything		-->		agreement anything
+aflac		-->		flac
+adjustred		-->		adjust red
+adafx		-->		dafx
+ad-based		-->		ad based
+across-the-board		-->		across the board
+above-		-->		above
+abhey		-->		abbey
+aaple		-->		ample
+a.<num>		-->		<num>
+a-shares		-->		shares
+a-game		-->		agame
+_google		-->		google
+@xerox		-->		xerox
+@xbox		-->		xbox
+@wsjd		-->		@wsj
+@washingtonpost		-->		washingtonpost
+@walmart		-->		walmart
+@verizon		-->		verizon
+@uber		-->		uber
+@tsla		-->		tsla
+@time		-->		time
+@terra		-->		terra
+@techcrunch		-->		techcrunch
+@target		-->		target
+@stock		-->		stock
+@starwars		-->		starwars
+@spectacles		-->		spectacles
+@seamless		-->		seamless
+@puma		-->		puma
+@periscope		-->		periscope
+@paypal		-->		paypal
+@nvidia		-->		nvidia
+@mcdonald		-->		mcdonald
+@marriott		-->		marriott
+@market		-->		market
+@lebron		-->		lebron
+@kayla		-->		kayla
+@jpmorgan		-->		jpmorgan
+@firstadopter..		-->		@firstadopter
+@eriiiic		-->		eric
+@data		-->		data
+@dailymail		-->		dailymail
+@chase		-->		chase
+@celgene		-->		celgene
+@beyonce		-->		beyonce
+@barronsonlin		-->		@barronsonline
+@barron		-->		barron
+@appstore		-->		appstore
+@alexia		-->		alexia
+@<num>:<num>		-->		<num>:<num>
+<num>tr		-->		<num>th
+<num>th-straight		-->		<num>th straight
+<num>sma		-->		<num>ema
+<num>pt		-->		<num>st
+<num>p/share		-->		<num>/share
+<num>mo		-->		<num>m
+<num>k+		-->		<num>k
+<num>day-		-->		<num>day
+<num>daa		-->		<num>day
+<num>bln		-->		<num>bn
+<num>b-		-->		<num>
+<num>b+		-->		<num>b
+<num>a-<num>p		-->		<num> <num>
+<num>:<num>p		-->		<num>:<num>
+<num>:<num>a.m		-->		<num>:<num> m
+<num>:<num>a		-->		<num>:<num>
+<num>:<num>-<num>:<num>		-->		<num>:<num> <num>:<num>
+<num>/<num>/<num>.<num>		-->		<num>/<num>/<num> <num>
+<num>/<num>/<num>-		-->		<num>/<num>/<num>
+<num>/<num>.<num>/<num>.<num>/<num>		-->		<num>/<num> <num>/<num> <num>/<num>
+<num>/<num>.<num>		-->		<num>/<num> <num>
+<num>/'<num>		-->		<num>/<num>
+<num>.<num>pm		-->		<num> <num>m
+<num>.<num>bln		-->		<num> <num>bn
+<num>.<num>b+		-->		<num> <num>b
+<num>.<num>/<num>.<num>/<num>.<num>/<num>		-->		<num> <num>/<num> <num>/<num> <num>/<num>
+<num>.<num>/<num>.<num>/<num>		-->		<num> <num>/<num> <num>/<num>
+<num>.<num>/<num>.<num>		-->		<num> <num>/<num> <num>
+<num>.<num>/.<num>		-->		<num> <num> <num>
+<num>.<num>.<num>		-->		<num> <num> <num>
+<num>.<num>-pts		-->		<num> <num> pts
+<num>-yrs		-->		<num> yrs
+<num>-tranche		-->		<num> tranche
+<num>-session		-->		<num> session
+<num>-point		-->		<num> point
+<num>-page		-->		<num> page
+<num>-ounce		-->		<num> ounce
+<num>-minute		-->		<num> minute
+<num>-m		-->		<num> m
+<num>-inch		-->		<num> inch
+<num>-feb		-->		<num> feb
+<num>-cents		-->		<num> cents
+<num>-box		-->		<num> box
+<num>-<num>x		-->		<num> <num>
+<num>-<num>p		-->		<num> <num>
+<num>-<num>b		-->		<num> <num>
+<num>-<num>.<num>bn		-->		<num> <num> <num>b
+<num>,<num>-point		-->		<num>,<num> point
+<num>,<num>-horsepower		-->		<num>,<num> horsepower
+.yawn		-->		yawn
+.still		-->		still
+.right		-->		right
+.jus		-->		jus
+.go		-->		go
+.aws		-->		aws
+.<num>s		-->		<num>
+.<num>-.<num>		-->		<num> <num>
+..fill		-->		fill
+-wsj		-->		wsj
+-utilities		-->		utilities
+-or		-->		or
+-nice		-->		nice
+-friday		-->		friday
+-financials		-->		financials
+-could		-->		could
+-cash		-->		cash
+-buffett		-->		buffett
+-adj		-->		adj
+-.<num>		-->		<num>
++double		-->		double
++<num>x		-->		+<num>
+*right		-->		right
+*live		-->		live
+*exclude		-->		exclude
+*attempt		-->		attempt
+**live		-->		live
+'zero		-->		zero
+'youtube		-->		youtube
+'would		-->		would
+'what		-->		what
+'weekly		-->		weekly
+'users		-->		users
+'these		-->		these
+'sweet		-->		sweet
+'superlong		-->		superlong
+'stranger		-->		stranger
+'steve		-->		steve
+'stepping		-->		stepping
+'stay		-->		stay
+'status		-->		status
+'software-enabled		-->		software enabled
+'salesforce		-->		salesforce
+'reactions		-->		're actions
+'rail		-->		rail
+'powder		-->		powder
+'potential		-->		potential
+'planet		-->		planet
+'open		-->		open
+'nitpicking		-->		nitpicking
+'multiple		-->		multiple
+'morning		-->		morning
+'modest		-->		modest
+'moderate		-->		moderate
+'manchester		-->		manchester
+'likes		-->		likes
+'leave		-->		leave
+'jointly		-->		jointly
+'iphone		-->		iphone
+'investment		-->		investment
+'high-tech		-->		high tech
+'group		-->		group
+'green		-->		green
+'great		-->		great
+'giant		-->		giant
+'frighteningly		-->		frighteningly
+'flesh		-->		flesh
+'fees		-->		fees
+'expect		-->		expect
+'exciting		-->		exciting
+'enterprise		-->		enterprise
+'encouraging		-->		encouraging
+'einstein		-->		einstein
+'edge		-->		edge
+'earbuds		-->		earbuds
+'drugs		-->		drugs
+'cycles		-->		cycles
+'customers		-->		customers
+'confirmed		-->		confirmed
+'cloud		-->		cloud
+'close		-->		close
+'cisco		-->		cisco
+'certainty		-->		certainty
+'carpool		-->		carpool
+'breaking		-->		breaking
+'blowout		-->		blowout
+'best		-->		best
+'bearish		-->		bearish
+'attention		-->		attention
+'appetizer		-->		appetizer
+'america		-->		america
+'almost		-->		almost
