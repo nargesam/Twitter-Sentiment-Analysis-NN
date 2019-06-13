@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+
 import os
 import pickle
 import time
@@ -100,9 +101,11 @@ dump_all_flags()
 print("**************")
 print(type(FLAGS.l2_reg_lambda))
 
+
 # ==============================================================================
 # Data Preparation
 # ==============================================================================
+
 pp = os.path.join(FLAGS.data_root, 'preprocessing')
 prefix = FLAGS.data_prefix
 
